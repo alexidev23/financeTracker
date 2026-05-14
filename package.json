@@ -45,6 +45,7 @@
 		"vite": "^8.0.7"
 	},
 	"dependencies": {
+		"layerchart": "^1.0.13",
 		"mode-watcher": "^1.1.0"
 	}
 }
